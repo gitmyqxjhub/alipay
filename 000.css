@@ -1,0 +1,16 @@
+.div1
+{
+	width: 60px;
+	height: 42px;
+	padding-left: 42px;
+	border: 1px red solid;
+	
+	background: blue url(../biying/btn.png) -168px -210px ;
+}
+div.div2
+{
+	word-break:break-all;
+	width: 60px;
+	height: 42px;
+	background-color: white;
+}
