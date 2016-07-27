@@ -1,0 +1,205 @@
+*{
+	font-family: microsoft Yahei;
+	margin: 0px;
+	padding:0px;
+	border: 0px;
+}
+.top{
+	width: 100%;
+	height: 200px;
+}
+.head{
+	overflow: hidden;
+	width: 100%;
+	height: 200px;
+	background: url(../images/bg02.png) no-repeat;
+	opacity: 0.7;
+	fiter:alpha(opacity=70);
+	background-color: #ececed;
+}
+.head01{
+	position: absolute;
+	margin-top: -200px;
+}
+.head01 a{
+	margin-left: 0px;
+}
+.head01 img{margin-top: 50px;margin-left: 100px;
+	width: 210px;
+	height: 45px;
+}
+.head01 ul{
+	margin-left: 650px;
+	margin-top: -50px;
+}
+.head01 li{
+	list-style-type: none;font-size: 18px;
+	width: 100px;
+	text-align: center;
+	border-bottom: 2px #231815 solid;
+	float: left;
+}
+.head01 li a{
+	color: #231815;
+	text-decoration: none;
+}
+.head01 li:hover{
+	border-bottom: 2px red solid;
+}
+.head01 li a:hover{
+	color:red;
+	text-decoration: underline;
+}
+.head02{
+	margin-top: 150px;
+	width: 100%;
+	height: 60px;
+	background-color: gray;
+	opacity: 0.7;
+	fiter:alpha(opacity=70);
+}
+.list{
+	position: absolute;
+	width: 200px;
+	margin-left: 130px;
+	margin-top: -50px;
+}
+.list li{
+	list-style-type: none;
+	line-height: 50px;
+	float: left;
+	color: white;
+	font-size: 14px;
+}
+.list li a{
+	text-decoration: none;
+	color: white;
+}
+.list li a:hover{
+	color: white;
+	text-decoration: underline;
+}
+.bottom{
+	margin-right: 100px;
+	margin-left: 100px;
+	height: 80px;
+}
+.bottom .zuo{
+	display: inline-block;
+	margin-top: 10px;
+}
+.bottom .you{
+	float: right;
+	width: 800px;
+}
+.bottom .you .erweima{
+	float: right;
+}
+.bottom .you p{
+	text-align: right;
+	float: right;
+	width: 600px;
+	height: 25px;
+	line-height: 25px;
+}
+.bottom .you li{
+	margin-right: 5px;
+	line-height: 25px;
+	list-style-type: none;
+	float: right;
+}
+.mid{
+	position: relative;
+	margin: 0 auto;
+	width: 1200px;
+	height: 300px;
+}
+.mid img{
+	width: 450px;
+	height: 300px;
+}
+.mid div{
+	float: left;
+}
+.mid_l1,.mid_r2{
+	width: 450px;
+	height: 300px;
+}
+.mid_l2,.mid_r1{
+	width: 750px;
+	height: 300px;
+}
+.mid_r1{
+	background-color: #f5f5f5;
+}
+.mid_r1 p,.mid_r1 span{
+	float: right;
+	font-size: 14px;
+	margin-right: 50px;
+}
+.mid span{
+	color: red;
+}
+.mid .mid_r1 span{
+	font-size: 28px;
+	margin-right: 0px;
+}
+.mid .mid_r1 .p1{
+	font-size: 24px;
+	margin-top: 4px;
+}
+.p3{
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-right: 50px;
+}
+.mid .mid_r1 .p2{
+	color: gray;
+	margin-right: 0px;
+	margin-top: 20px;
+}
+.mid_l2 span,.mid_l2 p{
+	margin-left: 50px;
+	float: left;
+}
+.mid .mid_l2 span{
+	font-size: 28px;
+	margin-right: 0px;
+}
+.mid .mid_l2 .p1{
+	font-size: 24px;
+	margin-top: 4px;
+}
+.mid .mid_l2 .p2{
+	color: gray;
+	margin-left: 0px;
+	margin-top: 20px;
+}
+.mid .mid_r1 .img1{
+	width: 15px;
+	height: 14px;
+	position: absolute;
+	margin-left: 0px;
+	margin-top: 50px;
+}
+.mid .mid_r1 .img2{
+	width: 15px;
+	height: 14px;
+	position: absolute;
+	margin-left: 700px;
+	margin-top: 250px;
+}
+.mid .mid_l2 .img1{
+	width: 15px;
+	height: 14px;
+	position: absolute;
+	margin-left: -330px;
+	margin-top: 60px;
+}
+.mid .mid_l2 .img2{
+	width: 15px;
+	height: 14px;
+	position: absolute;
+	margin-left: 300px;
+	margin-top: 250px;
+}

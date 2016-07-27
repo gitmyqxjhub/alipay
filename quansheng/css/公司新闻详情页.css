@@ -1,0 +1,55 @@
+*{
+	margin: 0px;
+	padding:0px;
+	border: 0px;
+}
+.bottom{
+	width: 100%;
+	height: 114px;
+}
+.list{
+	position: absolute;
+	width: 200px;
+	margin-left: 130px;
+	margin-top: -50px;
+}
+.list li{
+	list-style-type: none;
+	line-height: 50px;
+	float: left;
+	color: white;
+	font-size: 14px;
+}
+.list li a{
+	text-decoration: none;
+	color: white;
+}
+.list li a:hover{
+	color: white;
+	text-decoration: underline;
+}
+.zhengwen{
+	font-size: 14px;
+	color: #9b9b9b;
+}
+h2{
+	margin-top: 100px;
+	text-align: center;
+}
+.data{
+	margin-top: 50px;
+	text-align: center;
+	font-size: 14px;
+	color: #c9c9c9;
+}
+.xinwen{
+	text-indent: 28px;
+	width: 1000px;
+	position: relative;
+	margin: 0 auto;
+}
+.xinwen img{
+	display: block;
+	position: relative;
+	margin: 0 auto;
+}

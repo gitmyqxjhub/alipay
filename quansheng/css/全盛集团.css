@@ -1,0 +1,273 @@
+.list_xia{
+	width: 100%;
+	height: 50px;
+	background-color: #eaeaea;
+}
+.san{
+	position: absolute;
+	width: 0px;
+	height: 0px;
+	margin-top: 50px;
+	margin-left: 888px;
+	border: 50px solid transparent;
+	border-top: 40px solid #eaeaea;
+
+}
+.middle{
+	width: 100%;
+}
+.mid_01{
+	position: relative;
+	margin: 0 auto;
+	width: 1200px;
+	height: 500px;
+}
+.mid_01left{
+	float: left;
+	margin-top: 50px;
+	width: 288px;
+	height: 430px;
+}
+.mid_01right{
+	float: left;
+	width: 770px;
+	height: 500px;
+}
+.middle .mid_01right .p1{
+	margin-top: 50px;
+	margin-right: 50px;
+	float: right;
+	font-size: 28px;
+}
+.middle .mid_01right span{
+	margin-top: 50px;
+	float: right;
+	color: red;
+	font-size: 28px;
+}
+.middle .mid_01right .p2{
+	margin-top: 60px;
+	float: right;
+	font-size: 20px;
+}
+.middle .mid_01right .img1{
+	margin-left: 100px;
+	margin-top: 100px;
+
+}
+.middle .mid_01right .p3{
+	font-size: 18px;
+	margin-right: 30px;
+	margin-left: 100px;
+}
+.middle .mid_01right h3{
+	margin-left: 100px;
+	margin-top: 30px;
+}
+.middle .mid_01right .img2{
+	margin-left: 800px;
+	margin-top: 100px;
+}
+.middle .mid_01right button{
+	width: 150px;
+	height: 40px;
+	margin-left: 100px;
+	margin-top: 40px;
+	color: #eaeaea;
+	background-color: white;
+	border-radius: 5px;
+	border: 1px #eaeaea solid;
+}
+.mid_02{
+	width: 1200px;
+	height: 364px;
+	position: relative;
+	margin: 0 auto;
+	background-color: #eaeaea;
+}
+.mid_02 .mid_02right{
+	float: right;
+	width: 500px;
+	margin-right: 100px;
+}
+.mid_02left{
+	float: left;
+	width: 600px;
+	height: 364px;
+}
+.middle .mid_02left .p1{
+	margin-top: 50px;
+	float: left;
+	font-size: 28px;
+}
+.middle .mid_02left span{
+	margin-top: 50px;
+	float: left; 
+	color: red;
+	margin-left: 50px;
+	font-size: 28px;
+}
+.middle .mid_02left .p2{
+	margin-top: 60px;
+	float: left;
+	font-size: 20px;
+}
+.middle .mid_02left .img1{
+	margin-left: -250px;
+	margin-top: 100px;
+
+}
+.middle .mid_02left .p3{
+	font-size: 18px;
+	margin-right: 30px;
+	margin-left: 100px;
+}
+.middle .mid_02left h3{
+	margin-left: 100px;
+	margin-top: 30px;
+	margin-right: 50px;
+}
+.middle .mid_02left .img2{
+	margin-left: 540px;
+	margin-top: 00px;
+}
+.middle button{
+	width: 150px;
+	height: 40px;
+	margin-left: 100px;
+	margin-top: 40px;
+	color: #eaeaea;
+	background-color: white;
+	border-radius: 5px;
+	border: 1px #eaeaea solid;
+}
+.mid_03{
+	width: 1200px;
+	height: 314px;
+	position: relative;
+	margin: 0 auto;
+}
+.mid_03left{
+	width: 551px;
+	height: 314px;
+	float: left;
+}
+.mid_03right{
+	width: 649px;
+	height: 314px;
+	float: left;
+}
+.mid_03right .p1{
+	margin-top: 50px;
+	margin-right: 50px;
+	float: right;
+	font-size: 28px;
+}
+.middle .mid_03right span{
+	margin-top: 50px;
+	float: right;
+	color: red;
+	font-size: 28px;
+}
+.middle .mid_03right .p2{
+	margin-top: 60px;
+	float: right;
+	font-size: 20px;
+}
+.mid_03right .hui{
+	background-color: #eaeaea;
+	position: absolute;
+	margin-left: -100px;
+	margin-top: 168px;
+	height: 142px;
+	width: 749px;
+}
+.mid_03right .hui li{
+	margin-left: 100px;
+	line-height: 20px;
+	color: #aeaeae;
+	font-size: 14px;
+}
+.mid_04{
+	overflow: hidden;
+	width: 1200px;
+	height: 250px;
+	position: relative;
+	margin: 0 auto;
+}
+.mid_04 ul{
+	margin-top: 50px;
+}
+.middle .mid_04 li{
+	list-style-type: none;
+	margin-left: 100px;
+	color: #aeaeae;
+	font-size: 14px;
+	line-height: 20px;
+}
+.mid_04 .img1{
+	position: absolute;
+	margin-top: 5px;
+	margin-left: 100px;
+}
+.mid_04 .img2{
+	position: absolute;
+	margin-left: 1100px;
+	margin-top:50px;
+}
+.mid_05{
+	width: 1200px;
+	height: 350px;
+	position: relative;
+	margin: 0 auto;
+}
+.mid_05 .p1{
+	margin-top: 50px;
+	margin-right: 50px;
+	float: right;
+	font-size: 28px;
+}
+.middle .mid_05 span{
+	margin-top: 50px;
+	float: right;
+	color: red;
+	font-size: 28px;
+}
+.middle .mid_05 .p2{
+	margin-top: 60px;
+	float: right;
+	font-size: 20px;
+}
+.mid_05 .img1{
+	margin-top: -350px;
+	position: absolute;
+	margin-left: 100px;
+}
+.mid_05 .img2{
+	margin-top: 25px;
+}
+.mid_06{
+	width: 1200px;
+	position: relative;
+	margin: 0 auto;
+}
+.middle .mid_06 .p1{
+	margin-top: 50px;
+	float: left;
+	font-size: 28px;
+}
+.middle .mid_06 span{
+	margin-top: 50px;
+	float: left; 
+	color: red;
+	margin-left: 50px;
+	font-size: 28px;
+}
+.middle .mid_06 .p2{
+	margin-top: 60px;
+	float: left;
+	font-size: 20px;
+}
+.mid_06 img{
+	width: 1200px;
+}
