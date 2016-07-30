@@ -1,0 +1,283 @@
+html,body{
+	width:100%;
+	height: 100%;
+	position: relative;
+}
+.top{
+	margin-top: -1px;
+	width: 100%;
+	height: 100%;
+	background: url(../images/shouye_bg.png) no-repeat;
+	background-size: 100%;
+}
+.mid{
+	width: 100%;
+	height: 30px;
+	background-color: #f5f3f1;
+}
+.mid_t{
+	position: relative;
+	margin: 0 auto;
+	width: 1000px;
+	height: 30px;
+}
+.mid_t li{
+	font-size: 14px;
+	line-height: 30px;
+	float: left;
+	width: 20%;
+}
+.mid_t .mid_t01{
+	float: left;
+	height: 21px;
+	width: 20px;
+	background: url(../images/dianhua.png);
+}
+.mid_t .mid_t02{
+	float: left;
+	height: 21px;
+	width: 20px;
+	background: url(../images/dianhua.png)-290px 0px;
+}
+.mid_t .mid_t03{
+	float: left;
+	height: 21px;
+	width: 20px;
+	background: url(../images/dianhua.png)-530px 0px;
+}
+.mid_t .mid_t04{
+	float: left;
+	margin-left: 88px;
+	height: 21px;
+	width: 20px;
+	background: url(../images/dianhua.png)-835px 0px;
+}
+.mid .show{
+	width: 1000px;
+	height: 500px;
+	position: relative;
+	margin:  0 auto;
+}
+.mid .show_left{
+	width: 400px;
+	height: 500px;
+	float: left;
+}
+.mid .show_right{
+	width: 600px;
+	height: 500px;
+	float: left;
+}
+.show_03{
+	overflow: hidden;
+	float:right;
+	width: 160px;
+	height: 500px;
+	background-color: #ffd5c9;
+}
+.show_03 img{
+	margin-top: 100px;
+}
+.show_03f{
+	width: 160px;
+	height: 500px;
+	position: absolute;
+	top: 0px;
+}
+.fugai{
+	display: none;
+	background-color: gray;
+	opacity: 0.5;
+	fiter:alpha(opacity=50);
+}
+.show_03m{
+	position: absolute;
+	top: 300px;
+	left:270px;
+}
+.goumai{text-align: center;
+	display: none;
+	background-color: #ff48ce;
+	width: 100px;
+	height: 50px;
+}
+.tu:hover .fugai{
+	display: block;
+}
+.tu:hover .goumai{
+	display: block;
+}
+.show_01{
+	width: 240px;
+	height: 200px;
+	overflow: hidden;
+	float: right;
+	background-color: #f6ecf0;
+}
+.show_01f{
+	width: 240px;
+	height: 200px;
+	position: absolute;
+	top: 0px;
+}
+.show_01m{
+	position: absolute;
+	top: 100px;
+	left:70px;
+}
+.show_02{
+	width: 240px;
+	height: 300px;
+	overflow: hidden;
+	float: right;
+	background-color: #f6ecf0;
+}
+.show_02f{
+	width: 240px;
+	height: 300px;
+	position: absolute;
+	top: 200px;
+}
+.show_02m{
+	position: absolute;
+	top: 350px;
+	left:70px;
+}
+.show_09{
+	width: 150px;
+	height: 280px;
+	overflow: hidden;
+	float: right;
+	background-color: #f8cee8;
+}
+.show_09 img{
+	margin-top: 50px;
+}
+.show_09f{
+	width: 150px;
+	height: 280px;
+	position: absolute;
+	top: 00px;
+}
+.show_09m{
+	position: absolute;
+	top: 90px;
+	left:870px;
+}
+.show_07{
+	width: 190px;
+	height: 150px;
+	overflow: hidden;
+	float: right;
+	background-color: #f6ecf0;
+}
+.show_07 img{
+	margin-top: 20px;
+	margin-left: 50px;
+}
+.show_07f{
+	width: 190px;
+	height: 150px;
+	position: absolute;
+	top: 00px;
+}
+.show_07m{
+	position: absolute;
+	top: 50px;
+	left:700px;
+}
+.show_04{
+	width: 130px;
+	height: 150px;
+	overflow: hidden;
+	float: right;
+	background-color: #f5e3d3;
+}
+.show_04f{
+	width: 130px;
+	height: 150px;
+	position: absolute;
+	top: 00px;
+}
+.show_04m{
+	position: absolute;
+	top: 70px;
+	left:550px;
+}
+.show_08{
+	width: 230px;
+	height: 350px;
+	overflow: hidden;
+	float: right;
+	background-color: #ffddd6;
+}
+.show_08f{
+	width: 230px;
+	height: 350px;
+	position: absolute;
+	top: 150px;
+}
+.show_08m{
+	position: absolute;
+	top: 270px;
+	left:680px;
+}
+.show_05{
+	width: 220px;
+	height: 220px;
+	overflow: hidden;
+	float: right;
+	background-color: #c1eefd;
+}
+.show_05f{
+	width: 220px;
+	height: 220px;
+	position: absolute;
+	top: 150px;
+}
+.show_05m{
+	position: absolute;
+	top: 250px;
+	left:450px;
+}
+.show_06{
+	width: 120px;
+	height:130px;
+	overflow: hidden;
+	float: right;
+	background-color: #e0e0e0;
+}
+.show_06f{
+	width: 120px;
+	height: 130px;
+	position: absolute;
+	top: 370px;
+}
+.show_06m{
+	position: absolute;
+	top: 420px;
+	left:410px;
+}
+.show_10{
+	margin-left: 450px;
+	margin-top: -220px;
+	float: left;
+	width:150px;
+	height:220px;
+	background-color:#ececec;
+}
+.show_10 img{
+	margin-left: 40px;
+	margin-top: 20px;
+}
+.show_10f{
+	width: 150px;
+	height: 220px;
+	position: absolute;
+	top: 280px;
+}
+.show_10m{
+	position: absolute;
+	top: 420px;
+	left:870px;
+}

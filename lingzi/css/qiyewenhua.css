@@ -1,0 +1,46 @@
+.middle{
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	height: 1100px;
+	background-image: url(../images/bg.png);
+	background-repeat: no-repeat;
+	background-color: #09070e;
+	background-size: 100%;
+}
+.middle .p1{
+	color: white;
+	margin-left: 200px;
+	margin-top: 50px;
+	font-size: 18px;
+	margin-bottom: 50px;
+}
+.mid{
+	overflow: hidden;
+	position: relative;
+	width: 1000px;
+	height: 900px;
+	margin: 0 auto;
+	background-color: white;
+}
+.mid img{
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+.mid p{
+	position: absolute;
+	margin-left: 90px;
+}
+.mid .p2{
+	margin-top: 80px;	
+}
+.mid .p3{
+	margin-top: 205px;
+}
+.mid .p4{
+	margin-top: 325px;
+}
+.mid .p5{
+	margin-top: 520px;
+}

@@ -1,0 +1,87 @@
+.middle{
+	position: relative;
+	margin-left: -1px;
+	margin-top: -1px;
+	overflow: hidden;
+	width: 100%;
+	height: 1360px;
+	background-image: url(../images/bg.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color: #09070e;
+}
+.middle .p1{
+	margin-top: 20px;
+	margin-left: 200px;
+	color: white;
+	font-size: 18px;
+}
+.mid{
+	width: 1000px;
+	height: 1260px;
+	position: relative;
+	margin: 0 auto;
+}
+.mid li{
+	background-color: #f5f5f5;
+	width: 1000px;
+	height:400px; 
+	margin-top: 20px;
+}
+.middle li .tu{
+	float: left;
+	width: 500px;
+	height: 300px;
+	margin-left: 20px;
+	margin-top: 50px;
+}
+.you,.zuo{
+	width: 450px;
+	height: 250px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 50px;
+}
+.you p,.zuo p{
+	font-size: 14px;
+	margin-top: 10px;
+}
+.zuo{
+	width: 450px;
+	height: 250px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 50px;
+}
+.mid_r{
+	position: absolute;
+	font-size: 14px;
+	background-color: transparent;
+	text-align: center;
+	float: right;
+	color: black;
+	width: 355px;
+	height: 30px;
+	margin-top: 00px;
+	margin-left: 750px;
+}
+.mid_r p ,.mid_r input{
+	line-height: 30px;
+	padding-left: 5px;
+	padding-right: 5px;
+	background-color: #d6d6d6;
+	float: left;
+	margin-left: 5px;
+}
+.mid_r span{
+	line-height: 30px;
+	float: left;
+}
+.mid_r input{
+	width: 30px;
+	height: 30px;
+}
+.mid_r p:hover{
+	color: white;
+	background-color: #f0f;
+}

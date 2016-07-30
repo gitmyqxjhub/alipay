@@ -1,0 +1,32 @@
+.middle{
+	width: 100%;
+	height: 500px;
+	background:url(../images/bg.png) 0px -160px;
+}
+.mid{
+	margin-top: 100px;
+	background-color: transparent;
+	width: 1000px;
+	height:600px;
+	position: relative;
+	margin: 0 auto;
+}
+.mid img{
+	width:184px ;
+	height: 135px;
+}
+.mid li{
+	margin-left: 16px;
+	margin-top: 50px;
+	background-color: #f3f3f3;
+	float: left;
+}
+.mid dd{
+	text-align: center;
+}
+.mid p{
+	position: absolute;
+	margin-left: 20px;
+	margin-top: 10px;
+	color: white;
+}
